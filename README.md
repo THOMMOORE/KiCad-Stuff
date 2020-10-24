@@ -1,0 +1,2 @@
+# KiCad-Stuff
+Pretty files
